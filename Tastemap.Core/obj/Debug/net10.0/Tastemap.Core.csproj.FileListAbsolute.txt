@@ -1,0 +1,12 @@
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/bin/Debug/net10.0/Tastemap.Core.deps.json
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/bin/Debug/net10.0/Tastemap.Core.dll
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/bin/Debug/net10.0/Tastemap.Core.pdb
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/obj/Debug/net10.0/Tastemap.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/obj/Debug/net10.0/Tastemap.Core.AssemblyInfoInputs.cache
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/obj/Debug/net10.0/Tastemap.Core.AssemblyInfo.cs
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/obj/Debug/net10.0/Tastemap.Core.csproj.CoreCompileInputs.cache
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/obj/Debug/net10.0/Tastemap.Core.dll
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/obj/Debug/net10.0/refint/Tastemap.Core.dll
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/obj/Debug/net10.0/Tastemap.Core.pdb
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/obj/Debug/net10.0/ref/Tastemap.Core.dll
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Core/obj/Debug/net10.0/Tastemap.Core.csproj.AssemblyReference.cache

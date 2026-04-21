@@ -1,0 +1,17 @@
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/bin/Debug/net10.0/Tastemap.Repository.deps.json
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/bin/Debug/net10.0/Tastemap.Repository.dll
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/bin/Debug/net10.0/Tastemap.Repository.pdb
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/bin/Debug/net10.0/Tastemap.Core.dll
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/bin/Debug/net10.0/Tastemap.Core.pdb
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.Repository.csproj.AssemblyReference.cache
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.Repository.AssemblyInfoInputs.cache
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.Repository.AssemblyInfo.cs
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.Repository.csproj.CoreCompileInputs.cache
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.0358C2CB.Up2Date
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.Repository.dll
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/refint/Tastemap.Repository.dll
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.Repository.pdb
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/ref/Tastemap.Repository.dll
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/bin/Debug/net10.0/Tastemap.Repository.runtimeconfig.json
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.Repository.genruntimeconfig.cache

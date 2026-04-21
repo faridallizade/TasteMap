@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasteMap.API", "TasteMap.API\TasteMap.API.csproj", "{F84DD0A2-D6D6-4659-B1FE-0B409A5745D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tastemap.Core", "Tastemap.Core\Tastemap.Core.csproj", "{1D0E6CC3-1228-49E4-9B44-64FE15300434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tastemap.Repository", "Tastemap.Repository\Tastemap.Repository.csproj", "{5CFA46A2-9CEC-4497-88F0-D9CE0A2B1686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tastemap.Service", "Tastemap.Service\Tastemap.Service.csproj", "{5BBDC79F-7045-4864-BA2A-10BD549465F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84DD0A2-D6D6-4659-B1FE-0B409A5745D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84DD0A2-D6D6-4659-B1FE-0B409A5745D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84DD0A2-D6D6-4659-B1FE-0B409A5745D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84DD0A2-D6D6-4659-B1FE-0B409A5745D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D0E6CC3-1228-49E4-9B44-64FE15300434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0E6CC3-1228-49E4-9B44-64FE15300434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0E6CC3-1228-49E4-9B44-64FE15300434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0E6CC3-1228-49E4-9B44-64FE15300434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CFA46A2-9CEC-4497-88F0-D9CE0A2B1686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFA46A2-9CEC-4497-88F0-D9CE0A2B1686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFA46A2-9CEC-4497-88F0-D9CE0A2B1686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFA46A2-9CEC-4497-88F0-D9CE0A2B1686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BBDC79F-7045-4864-BA2A-10BD549465F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBDC79F-7045-4864-BA2A-10BD549465F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBDC79F-7045-4864-BA2A-10BD549465F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBDC79F-7045-4864-BA2A-10BD549465F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
