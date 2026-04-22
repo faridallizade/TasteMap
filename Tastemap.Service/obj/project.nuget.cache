@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vImjAGrb2vs=",
+  "dgSpecHash": "qm2e78Qu3hU=",
   "success": true,
   "projectFilePath": "/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Service/Tastemap.Service.csproj",
   "expectedPackageFiles": [
+    "/Users/Zade/.nuget/packages/bcrypt.net-next/4.1.0/bcrypt.net-next.4.1.0.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.entityframeworkcore/10.0.6/microsoft.entityframeworkcore.10.0.6.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.6/microsoft.entityframeworkcore.abstractions.10.0.6.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.6/microsoft.entityframeworkcore.analyzers.10.0.6.nupkg.sha512",
@@ -17,8 +18,13 @@
     "/Users/Zade/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.6/microsoft.extensions.logging.abstractions.10.0.6.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.extensions.options/10.0.6/microsoft.extensions.options.10.0.6.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.extensions.primitives/10.0.6/microsoft.extensions.primitives.10.0.6.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/microsoft.identitymodel.abstractions/8.0.1/microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.0.1/microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/microsoft.identitymodel.logging/8.0.1/microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/microsoft.identitymodel.tokens/8.0.1/microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
     "/Users/Zade/.nuget/packages/npgsql/10.0.2/npgsql.10.0.2.nupkg.sha512",
-    "/Users/Zade/.nuget/packages/npgsql.entityframeworkcore.postgresql/10.0.1/npgsql.entityframeworkcore.postgresql.10.0.1.nupkg.sha512"
+    "/Users/Zade/.nuget/packages/npgsql.entityframeworkcore.postgresql/10.0.1/npgsql.entityframeworkcore.postgresql.10.0.1.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/system.identitymodel.tokens.jwt/8.0.1/system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TasteMap.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d35951c8bb3dcdda6398ec5c7e351d8125a1fbb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TasteMap.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TasteMap.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

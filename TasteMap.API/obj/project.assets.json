@@ -921,6 +921,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
+          "BCrypt.Net-Next": "4.1.0",
+          "Microsoft.IdentityModel.Tokens": "8.0.1",
+          "System.IdentityModel.Tokens.Jwt": "8.0.1",
           "Tastemap.Repository": "1.0.0"
         },
         "compile": {

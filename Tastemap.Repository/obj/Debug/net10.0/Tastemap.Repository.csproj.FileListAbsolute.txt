@@ -15,3 +15,4 @@
 /Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/ref/Tastemap.Repository.dll
 /Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/bin/Debug/net10.0/Tastemap.Repository.runtimeconfig.json
 /Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.Repository.genruntimeconfig.cache
+/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Repository/obj/Debug/net10.0/Tastemap.Repository.sourcelink.json
