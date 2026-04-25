@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Al4DHAOxOKc=",
+  "dgSpecHash": "DkdCDa2Y2Bc=",
   "success": true,
   "projectFilePath": "/Users/Zade/Desktop/Projects/TasteMap/TasteMap.API/TasteMap.API.csproj",
   "expectedPackageFiles": [
     "/Users/Zade/.nuget/packages/bcrypt.net-next/4.1.0/bcrypt.net-next.4.1.0.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/fluentvalidation/10.4.0/fluentvalidation.10.4.0.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/fluentvalidation.aspnetcore/10.4.0/fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.4.0/fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
     "/Users/Zade/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/10.0.6/microsoft.aspnetcore.authentication.jwtbearer.10.0.6.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.aspnetcore.openapi/10.0.2/microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
@@ -21,6 +24,7 @@
     "/Users/Zade/.nuget/packages/microsoft.entityframeworkcore.design/10.0.6/microsoft.entityframeworkcore.design.10.0.6.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.6/microsoft.entityframeworkcore.relational.10.0.6.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.extensions.dependencymodel/10.0.6/microsoft.extensions.dependencymodel.10.0.6.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.identitymodel.abstractions/8.0.1/microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.0.1/microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",

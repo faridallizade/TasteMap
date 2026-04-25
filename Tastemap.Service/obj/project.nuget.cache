@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qm2e78Qu3hU=",
+  "dgSpecHash": "Vp68Um/CbmU=",
   "success": true,
   "projectFilePath": "/Users/Zade/Desktop/Projects/TasteMap/Tastemap.Service/Tastemap.Service.csproj",
   "expectedPackageFiles": [
     "/Users/Zade/.nuget/packages/bcrypt.net-next/4.1.0/bcrypt.net-next.4.1.0.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/fluentvalidation/10.4.0/fluentvalidation.10.4.0.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/fluentvalidation.aspnetcore/10.4.0/fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "/Users/Zade/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.4.0/fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.entityframeworkcore/10.0.6/microsoft.entityframeworkcore.10.0.6.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.6/microsoft.entityframeworkcore.abstractions.10.0.6.nupkg.sha512",
     "/Users/Zade/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.6/microsoft.entityframeworkcore.analyzers.10.0.6.nupkg.sha512",

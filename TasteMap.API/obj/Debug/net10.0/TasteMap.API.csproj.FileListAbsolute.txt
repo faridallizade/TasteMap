@@ -139,3 +139,6 @@
 /Users/Zade/Desktop/Projects/TasteMap/TasteMap.API/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
 /Users/Zade/Desktop/Projects/TasteMap/TasteMap.API/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/Zade/Desktop/Projects/TasteMap/TasteMap.API/obj/Debug/net10.0/TasteMap.API.sourcelink.json
+/Users/Zade/Desktop/Projects/TasteMap/TasteMap.API/bin/Debug/net10.0/FluentValidation.dll
+/Users/Zade/Desktop/Projects/TasteMap/TasteMap.API/bin/Debug/net10.0/FluentValidation.AspNetCore.dll
+/Users/Zade/Desktop/Projects/TasteMap/TasteMap.API/bin/Debug/net10.0/FluentValidation.DependencyInjectionExtensions.dll

@@ -12,12 +12,18 @@ public class UnitOfWork : IUnitOfWork
 
     public IUserRepository Users { get; }
     public IRefreshTokenRepository RefreshTokens { get; }
+    public IUserDetailsRepository UserDetails { get; }
 
-    public UnitOfWork(AppDbContext context, IUserRepository users, IRefreshTokenRepository refreshTokens)
+    public UnitOfWork(
+        AppDbContext context, 
+        IUserRepository users, 
+        IRefreshTokenRepository refreshTokens, 
+        IUserDetailsRepository userDetails)
     {
         _context = context;
         Users = users;
         RefreshTokens = refreshTokens;
+        UserDetails = userDetails;
     }
 
     public async Task<int> SaveChangesAsync() 

@@ -44,7 +44,18 @@ public class AuthService : IAuthService
             UpdatedAt = DateTime.UtcNow.AddHours(4)
         };
 
+        var userDetails = new UserDetails()
+        {
+            FirstName = registerDto.FirstName,
+            LastName = registerDto.LastName,
+            PhoneNumber = registerDto.PhoneNumber,
+            ProfileImageUrl = null,
+            User = user,
+            UserId = user.Id
+        };
+
         await _unitOfWork.Users.AddAsync(user);
+        await _unitOfWork.UserDetails.AddAsync(userDetails);
         await _unitOfWork.SaveChangesAsync();
 
         var tokens = await GenerateTokenAsync(user);
@@ -54,7 +65,6 @@ public class AuthService : IAuthService
     public async Task<Response<TokenResponseDto>> LoginAsync(LoginDto loginDto)
     {
         var user = await _unitOfWork.Users.GetByEmailAsync(loginDto.Email);
-
         if (user is null || !BCrypt.Net.BCrypt.Verify(loginDto.Password, user.PasswordHash))
             return Response<TokenResponseDto>.Fail("Email or Password incorrect");
         if (user.Status != UserStatus.Active)
